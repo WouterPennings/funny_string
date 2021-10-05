@@ -1,7 +1,3 @@
-fn main() {
-
-}
-
 fn get_char_from_string(string: &str, index: i32) -> char {
     return string.chars().nth(index as usize).unwrap();
 }
