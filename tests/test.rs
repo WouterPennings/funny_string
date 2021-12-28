@@ -1,4 +1,4 @@
-extern crate FunnyString as helper;
+extern crate funny_string as helper;
 
 #[test]
 fn index_string_1() {
@@ -10,7 +10,7 @@ fn index_string_1() {
 #[test]
 fn index_string_2() {
     let input = "hello";
-    let result = helper::index_string(input, 4);
+    let result = helper::       index_string(input, 4);
     assert_eq!('o', result)
 }
 

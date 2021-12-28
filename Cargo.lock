@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "FunnyString"
+name = "funny_string"
 version = "0.1.1"
