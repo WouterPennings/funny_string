@@ -1,4 +1,3 @@
-# string_helper_functions
-In this package there are functions to help with string in Rust.
+# Funny String
+A small package with helper functions for string in Rust. Nothing special.
 
-Go to releases to download the latest.
