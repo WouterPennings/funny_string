@@ -1,5 +1,5 @@
 [package]
-name = "string_helper_functions"
+name = "funny_string"
 version = "0.1.0"
 authors = ["Wouter Pennings"]
 edition = "2018"
