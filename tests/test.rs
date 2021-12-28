@@ -16,9 +16,10 @@ fn index_string_2() {
 
 #[test]
 fn substring_1() {
-    let input = "hello";
-    let result = helper::substring(input, 0, 5);
-    assert_eq!("hello", result)
+    let input = "Hello, World!";
+    let result = helper::substring(input, 2, 6);
+    println!("{}", result);
+    assert_eq!("llo,", result)
 }
 
 #[test]
