@@ -18,7 +18,6 @@ fn index_string_2() {
 fn substring_1() {
     let input = "Hello, World!";
     let result = helper::substring(input, 2, 6);
-    println!("{}", result);
     assert_eq!("llo,", result)
 }
 
