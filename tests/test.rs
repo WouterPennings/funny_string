@@ -1,4 +1,4 @@
-extern crate funny_string as helper;
+extern crate FunnyString as helper;
 
 #[test]
 fn index_string_1() {
